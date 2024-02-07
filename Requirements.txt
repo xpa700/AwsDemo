@@ -1,4 +1,4 @@
-Django==2.2.10
+Django==3.2.24
 pytz==2018.9
 # for now let's ignore postgres
 # psycopg2==2.8.2
